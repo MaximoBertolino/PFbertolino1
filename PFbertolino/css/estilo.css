@@ -1,0 +1,96 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Anton", sans-serif;
+    background-image: url("../img/travis.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.imgjack{
+    text-align: center;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-size: 6rem;
+    margin-top: 10vh;
+}
+h2{
+    font-size: 3rem;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+main{
+    margin-top: 15vh;
+}
+main p{
+    color: hsl(0, 0%, 0%);
+}
+.Masproductos{
+    text-align: center;
+    color: rgb(47, 0, 255);
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contacto2{
+    text-align: center;
+}
+.LogoSize{
+    width: 60px;
+}
+.color_nav{
+    background-color: rgba(255, 255, 255, 0.747);
+}
+.navbar-nav{
+    margin: 20px auto;
+        text-align: center;
+        color: black;
+}
+.nav-item{
+    color: black;
+}
+.Imagen1{
+    display: flex;
+    justify-content: space-between;
+}
+.RopaTravis1{
+    width: 570px;
+    height: 500px;
+}
+.RopaTravis2{
+    width: 570px;
+    height: 500px;
+}
+.Imagen2{
+    display: flex;
+    justify-content: space-between;
+}
+.RopaTravis3{
+    width: 570px;
+    height: 500px;
+}
+.RopaTravis4{
+    width: 570px;
+    height: 500px;
+}
+.ProductosH2{
+    color: rgb(0, 4, 255);
+}
+.mb-3{
+    color: rgb(25, 0, 255);
+}
+.imgNostros{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
